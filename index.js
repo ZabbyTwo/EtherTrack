@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-require("dotend").config();
+require("dotenv").config();
 
 
 app.get('/etherscan-info', async (req, res) => {
