@@ -4,7 +4,7 @@ An API showcase built using **HTML**, **CSS**, and **Node.js**.
 
 ## 🔗 API
 
-[Etherscan API](https://api.etherscan.io/api)
+[Etherscan API](https://etherscan.io/login)
 
 ## 🛠️ TODO
 
